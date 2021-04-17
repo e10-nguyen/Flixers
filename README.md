@@ -13,8 +13,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [X] (2pt) User can view the app on various device sizes and orientations.
-- [x] (1pt) Run your app on a real device.
+- [] (2pt) User can view the app on various device sizes and orientations.
+- [] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
 
@@ -22,6 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+I used a new version of VS Code that was difficult me to learn at first, I am still learning how to use the UI of it and hope to become better at it.
 
 ## Flix Part 2
 
