@@ -42,3 +42,4 @@ Describe any challenges encountered while building the app.
 
 ### Notes
 Describe any challenges encountered while building the app.
+Learning swift syntax is more difficult than other languages so far, but I had an easier time building off last weeks app
